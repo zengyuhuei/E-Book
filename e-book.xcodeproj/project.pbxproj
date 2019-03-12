@@ -8,12 +8,57 @@
 
 /* Begin PBXBuildFile section */
 		992C78AF2236B7B200924631 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78AE2236B7B200924631 /* AppDelegate.swift */; };
-		992C78B12236B7B200924631 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78B02236B7B200924631 /* ViewController.swift */; };
+		992C78B12236B7B200924631 /* LuyaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78B02236B7B200924631 /* LuyaViewController.swift */; };
 		992C78B42236B7B200924631 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 992C78B22236B7B200924631 /* Main.storyboard */; };
 		992C78B62236B7B300924631 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 992C78B52236B7B300924631 /* Assets.xcassets */; };
 		992C78B92236B7B300924631 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 992C78B72236B7B300924631 /* LaunchScreen.storyboard */; };
 		992C78C42236B7B300924631 /* e_bookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78C32236B7B300924631 /* e_bookTests.swift */; };
 		992C78CF2236B7B400924631 /* e_bookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78CE2236B7B400924631 /* e_bookUITests.swift */; };
+		992C78DD2236CC5800924631 /* SentyCreamPuff.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 992C78DC2236CC5800924631 /* SentyCreamPuff.ttf */; };
+		992C78DE2236CC5800924631 /* SentyCreamPuff.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 992C78DC2236CC5800924631 /* SentyCreamPuff.ttf */; };
+		992C78DF2236CC5800924631 /* SentyCreamPuff.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 992C78DC2236CC5800924631 /* SentyCreamPuff.ttf */; };
+		992C78F52237DA5B00924631 /* Luya.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C78F42237DA5B00924631 /* Luya.gif */; };
+		992C78F62237DA5B00924631 /* Luya.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C78F42237DA5B00924631 /* Luya.gif */; };
+		992C78F72237DA5B00924631 /* Luya.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C78F42237DA5B00924631 /* Luya.gif */; };
+		992C78F92237DE3700924631 /* UIImage+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78F82237DE3700924631 /* UIImage+GIF.swift */; };
+		992C78FA2237DE3700924631 /* UIImage+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78F82237DE3700924631 /* UIImage+GIF.swift */; };
+		992C78FB2237DE3700924631 /* UIImage+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C78F82237DE3700924631 /* UIImage+GIF.swift */; };
+		992C78FD2237E74200924631 /* star.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C78FC2237E74100924631 /* star.gif */; };
+		992C78FE2237E74200924631 /* star.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C78FC2237E74100924631 /* star.gif */; };
+		992C78FF2237E74200924631 /* star.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C78FC2237E74100924631 /* star.gif */; };
+		992C79012237E7CF00924631 /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79002237E7CF00924631 /* StarViewController.swift */; };
+		992C79022237E7CF00924631 /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79002237E7CF00924631 /* StarViewController.swift */; };
+		992C79032237E7CF00924631 /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79002237E7CF00924631 /* StarViewController.swift */; };
+		992C79052237EF4B00924631 /* coco.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79042237EF4B00924631 /* coco.gif */; };
+		992C79062237EF4B00924631 /* coco.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79042237EF4B00924631 /* coco.gif */; };
+		992C79072237EF4B00924631 /* coco.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79042237EF4B00924631 /* coco.gif */; };
+		992C79092237F06700924631 /* CocoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79082237F06700924631 /* CocoViewController.swift */; };
+		992C790A2237F06700924631 /* CocoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79082237F06700924631 /* CocoViewController.swift */; };
+		992C790B2237F06700924631 /* CocoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79082237F06700924631 /* CocoViewController.swift */; };
+		992C790D2237F9DD00924631 /* lina.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C790C2237F9DD00924631 /* lina.gif */; };
+		992C790E2237F9DD00924631 /* lina.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C790C2237F9DD00924631 /* lina.gif */; };
+		992C790F2237F9DD00924631 /* lina.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C790C2237F9DD00924631 /* lina.gif */; };
+		992C79112237FC1100924631 /* LinaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79102237FC1100924631 /* LinaViewController.swift */; };
+		992C79122237FC1100924631 /* LinaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79102237FC1100924631 /* LinaViewController.swift */; };
+		992C79132237FC1100924631 /* LinaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79102237FC1100924631 /* LinaViewController.swift */; };
+		992C79152237FEE400924631 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79142237FEE400924631 /* BlueViewController.swift */; };
+		992C79162237FEE400924631 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79142237FEE400924631 /* BlueViewController.swift */; };
+		992C79172237FEE400924631 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79142237FEE400924631 /* BlueViewController.swift */; };
+		992C79192237FF5C00924631 /* blue.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79182237FF5C00924631 /* blue.gif */; };
+		992C791A2237FF5C00924631 /* blue.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79182237FF5C00924631 /* blue.gif */; };
+		992C791B2237FF5C00924631 /* blue.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79182237FF5C00924631 /* blue.gif */; };
+		992C791D2238035300924631 /* noWareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C791C2238035300924631 /* noWareViewController.swift */; };
+		992C791E2238035300924631 /* noWareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C791C2238035300924631 /* noWareViewController.swift */; };
+		992C791F2238035300924631 /* noWareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C791C2238035300924631 /* noWareViewController.swift */; };
+		992C79212238037900924631 /* noware.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79202238037800924631 /* noware.gif */; };
+		992C79222238037900924631 /* noware.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79202238037800924631 /* noware.gif */; };
+		992C79232238037900924631 /* noware.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C79202238037800924631 /* noware.gif */; };
+		992C7925223805FE00924631 /* purple.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C7924223805FE00924631 /* purple.gif */; };
+		992C7926223805FE00924631 /* purple.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C7924223805FE00924631 /* purple.gif */; };
+		992C7927223805FE00924631 /* purple.gif in Resources */ = {isa = PBXBuildFile; fileRef = 992C7924223805FE00924631 /* purple.gif */; };
+		992C79292238061700924631 /* PurpleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79282238061700924631 /* PurpleViewController.swift */; };
+		992C792A2238061700924631 /* PurpleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79282238061700924631 /* PurpleViewController.swift */; };
+		992C792B2238061700924631 /* PurpleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992C79282238061700924631 /* PurpleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +81,7 @@
 /* Begin PBXFileReference section */
 		992C78AB2236B7B200924631 /* e-book.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "e-book.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		992C78AE2236B7B200924631 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		992C78B02236B7B200924631 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		992C78B02236B7B200924631 /* LuyaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuyaViewController.swift; sourceTree = "<group>"; };
 		992C78B32236B7B200924631 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		992C78B52236B7B300924631 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		992C78B82236B7B300924631 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +92,21 @@
 		992C78CA2236B7B400924631 /* e-bookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "e-bookUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		992C78CE2236B7B400924631 /* e_bookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = e_bookUITests.swift; sourceTree = "<group>"; };
 		992C78D02236B7B400924631 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		992C78DC2236CC5800924631 /* SentyCreamPuff.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SentyCreamPuff.ttf; sourceTree = "<group>"; };
+		992C78F42237DA5B00924631 /* Luya.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Luya.gif; sourceTree = SOURCE_ROOT; };
+		992C78F82237DE3700924631 /* UIImage+GIF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+GIF.swift"; sourceTree = "<group>"; };
+		992C78FC2237E74100924631 /* star.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = star.gif; sourceTree = SOURCE_ROOT; };
+		992C79002237E7CF00924631 /* StarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarViewController.swift; sourceTree = "<group>"; };
+		992C79042237EF4B00924631 /* coco.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = coco.gif; sourceTree = SOURCE_ROOT; };
+		992C79082237F06700924631 /* CocoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoViewController.swift; sourceTree = "<group>"; };
+		992C790C2237F9DD00924631 /* lina.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = lina.gif; sourceTree = SOURCE_ROOT; };
+		992C79102237FC1100924631 /* LinaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinaViewController.swift; sourceTree = "<group>"; };
+		992C79142237FEE400924631 /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		992C79182237FF5C00924631 /* blue.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = blue.gif; sourceTree = SOURCE_ROOT; };
+		992C791C2238035300924631 /* noWareViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = noWareViewController.swift; sourceTree = "<group>"; };
+		992C79202238037800924631 /* noware.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = noware.gif; sourceTree = SOURCE_ROOT; };
+		992C7924223805FE00924631 /* purple.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = purple.gif; sourceTree = SOURCE_ROOT; };
+		992C79282238061700924631 /* PurpleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurpleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +158,27 @@
 			isa = PBXGroup;
 			children = (
 				992C78AE2236B7B200924631 /* AppDelegate.swift */,
-				992C78B02236B7B200924631 /* ViewController.swift */,
+				992C78F82237DE3700924631 /* UIImage+GIF.swift */,
+				992C78B02236B7B200924631 /* LuyaViewController.swift */,
+				992C79102237FC1100924631 /* LinaViewController.swift */,
+				992C78DC2236CC5800924631 /* SentyCreamPuff.ttf */,
+				992C78FC2237E74100924631 /* star.gif */,
+				992C79202238037800924631 /* noware.gif */,
+				992C790C2237F9DD00924631 /* lina.gif */,
+				992C7924223805FE00924631 /* purple.gif */,
+				992C79182237FF5C00924631 /* blue.gif */,
+				992C79042237EF4B00924631 /* coco.gif */,
+				992C78C32236B7B300924631 /* e_bookTests.swift */,
+				992C78F42237DA5B00924631 /* Luya.gif */,
 				992C78B22236B7B200924631 /* Main.storyboard */,
 				992C78B52236B7B300924631 /* Assets.xcassets */,
 				992C78B72236B7B300924631 /* LaunchScreen.storyboard */,
 				992C78BA2236B7B300924631 /* Info.plist */,
+				992C79002237E7CF00924631 /* StarViewController.swift */,
+				992C79082237F06700924631 /* CocoViewController.swift */,
+				992C79142237FEE400924631 /* BlueViewController.swift */,
+				992C791C2238035300924631 /* noWareViewController.swift */,
+				992C79282238061700924631 /* PurpleViewController.swift */,
 			);
 			path = "e-book";
 			sourceTree = "<group>";
@@ -110,7 +186,6 @@
 		992C78C22236B7B300924631 /* e-bookTests */ = {
 			isa = PBXGroup;
 			children = (
-				992C78C32236B7B300924631 /* e_bookTests.swift */,
 				992C78C52236B7B300924631 /* Info.plist */,
 			);
 			path = "e-bookTests";
@@ -229,8 +304,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				992C7925223805FE00924631 /* purple.gif in Resources */,
+				992C790D2237F9DD00924631 /* lina.gif in Resources */,
+				992C79052237EF4B00924631 /* coco.gif in Resources */,
 				992C78B92236B7B300924631 /* LaunchScreen.storyboard in Resources */,
 				992C78B62236B7B300924631 /* Assets.xcassets in Resources */,
+				992C78DD2236CC5800924631 /* SentyCreamPuff.ttf in Resources */,
+				992C78F52237DA5B00924631 /* Luya.gif in Resources */,
+				992C79212238037900924631 /* noware.gif in Resources */,
+				992C78FD2237E74200924631 /* star.gif in Resources */,
+				992C79192237FF5C00924631 /* blue.gif in Resources */,
 				992C78B42236B7B200924631 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +322,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				992C79062237EF4B00924631 /* coco.gif in Resources */,
+				992C78DE2236CC5800924631 /* SentyCreamPuff.ttf in Resources */,
+				992C790E2237F9DD00924631 /* lina.gif in Resources */,
+				992C78FE2237E74200924631 /* star.gif in Resources */,
+				992C791A2237FF5C00924631 /* blue.gif in Resources */,
+				992C79222238037900924631 /* noware.gif in Resources */,
+				992C7926223805FE00924631 /* purple.gif in Resources */,
+				992C78F62237DA5B00924631 /* Luya.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +337,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				992C79072237EF4B00924631 /* coco.gif in Resources */,
+				992C78DF2236CC5800924631 /* SentyCreamPuff.ttf in Resources */,
+				992C790F2237F9DD00924631 /* lina.gif in Resources */,
+				992C78FF2237E74200924631 /* star.gif in Resources */,
+				992C791B2237FF5C00924631 /* blue.gif in Resources */,
+				992C79232238037900924631 /* noware.gif in Resources */,
+				992C7927223805FE00924631 /* purple.gif in Resources */,
+				992C78F72237DA5B00924631 /* Luya.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +355,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				992C78B12236B7B200924631 /* ViewController.swift in Sources */,
+				992C791D2238035300924631 /* noWareViewController.swift in Sources */,
+				992C79012237E7CF00924631 /* StarViewController.swift in Sources */,
+				992C79292238061700924631 /* PurpleViewController.swift in Sources */,
+				992C78B12236B7B200924631 /* LuyaViewController.swift in Sources */,
+				992C79092237F06700924631 /* CocoViewController.swift in Sources */,
+				992C78F92237DE3700924631 /* UIImage+GIF.swift in Sources */,
+				992C79112237FC1100924631 /* LinaViewController.swift in Sources */,
 				992C78AF2236B7B200924631 /* AppDelegate.swift in Sources */,
+				992C79152237FEE400924631 /* BlueViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +371,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				992C78FA2237DE3700924631 /* UIImage+GIF.swift in Sources */,
+				992C79122237FC1100924631 /* LinaViewController.swift in Sources */,
+				992C79022237E7CF00924631 /* StarViewController.swift in Sources */,
+				992C790A2237F06700924631 /* CocoViewController.swift in Sources */,
+				992C792A2238061700924631 /* PurpleViewController.swift in Sources */,
+				992C791E2238035300924631 /* noWareViewController.swift in Sources */,
+				992C79162237FEE400924631 /* BlueViewController.swift in Sources */,
 				992C78C42236B7B300924631 /* e_bookTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,6 +386,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				992C78FB2237DE3700924631 /* UIImage+GIF.swift in Sources */,
+				992C79132237FC1100924631 /* LinaViewController.swift in Sources */,
+				992C79032237E7CF00924631 /* StarViewController.swift in Sources */,
+				992C790B2237F06700924631 /* CocoViewController.swift in Sources */,
+				992C792B2238061700924631 /* PurpleViewController.swift in Sources */,
+				992C791F2238035300924631 /* noWareViewController.swift in Sources */,
+				992C79172237FEE400924631 /* BlueViewController.swift in Sources */,
 				992C78CF2236B7B400924631 /* e_bookUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
